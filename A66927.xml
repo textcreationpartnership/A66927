@@ -1,0 +1,1519 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loyalty the ornament of Christianity, or, Scripture proofs for monarchy with comments in verse on each proof and applications relating to the unparallel'd rebellion in the West, wherein the arch-traitor Ferguson is in some measure anatomiz'd and his disciples characteriz'd / written by a souldier, Geo. Wood.</title>
+            <author>Wood, George, soldier.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66927</idno>
+            <idno type="STC">Wing W3390</idno>
+            <idno type="STC">ESTC R33682</idno>
+            <idno type="EEBO-CITATION">13548968</idno>
+            <idno type="OCLC">ocm 13548968</idno>
+            <idno type="VID">100166</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66927)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100166)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1559:49)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Loyalty the ornament of Christianity, or, Scripture proofs for monarchy with comments in verse on each proof and applications relating to the unparallel'd rebellion in the West, wherein the arch-traitor Ferguson is in some measure anatomiz'd and his disciples characteriz'd / written by a souldier, Geo. Wood.</title>
+                  <author>Wood, George, soldier.</author>
+               </titleStmt>
+               <extent>[21], 74 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Darby for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monarchy.</term>
+               <term>Allegiance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Decemb.</hi> 24. 1685.</date>
+               </dateline>
+            </opener>
+            <p>This may be printed.</p>
+            <closer>
+               <signed>R. M.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:100166:1"/>
+            <pb facs="tcp:100166:1" rendition="simple:additions"/>
+            <p> LOYALTY, The <hi>Ornament</hi> of <hi>Chriſtianity:</hi> OR, Scripture Proofs FOR MONARCHY.</p>
+            <p>With Comments in Verſe on each Proof; and Applications relating to the unpa<g ref="char:EOLhyphen"/>rallel'd <hi rend="blackletterType">Rebellion in the Weſt:</hi> where<g ref="char:EOLhyphen"/>in the Arch-Traitor <hi>Ferguſon</hi> is in ſome meaſure anatomiz'd, and his Diſciples characteriz'd.</p>
+            <p>Written by a Souldier, <hi>Geo. Wood.</hi>
+            </p>
+            <p>
+               <hi>And whoſoever will not do the Law of thy God, and the Law of the</hi> King, <hi>let Judgment be executed ſpeedily upon him, whether it be unto Death, or to Baniſhment, or to Confiſcation of Goods, or to Impriſonment.</hi> Ezra 7. 26.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Darby,</hi> for the Author. 1686.</p>
+            <pb facs="tcp:100166:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100166:2"/>
+            <head>
+               <hi>To the Right Honourable, Heroick and Valiant,</hi> JOHN <hi>Lord</hi> Churchil <hi>of</hi> Aymouth, <hi>Baron of</hi> Sandridge; <hi>one of the moſt Honourable Lords of his Maje<g ref="char:EOLhyphen"/>ſty's Bed-chamber; Major-Ge<g ref="char:EOLhyphen"/>neral of all his Majeſty's Forces, and Colonel of his Majeſty's third Troop of Horſe-Guards,</hi> &amp;c.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E read in Holy Writ, a Catalogue of King <hi>David</hi>'s <hi>Worthies,</hi> who ventured their Lives to ſettle their Soveraign in the peace<g ref="char:EOLhyphen"/>able
+<pb facs="tcp:100166:3"/> poſſeſſion of his Kingdom: But ſhould I go about to give an account of thoſe truly Loyal Heroes, who lately ſo freely ven<g ref="char:EOLhyphen"/>tur'd their Lives and Fortunes for their King and Country, my Book wou'd ſwell to ſo prodigi<g ref="char:EOLhyphen"/>ous a bulk, that it wou'd be tireſome and troubleſome to read.</p>
+            <p>None were more ſingularly e<g ref="char:EOLhyphen"/>minent in this bleſſed Work, than your Illuſtrious Lordſhip; and therefore the Dedication of this Loyal Book moſt properly be<g ref="char:EOLhyphen"/>longs to you. The conſiderati<g ref="char:EOLhyphen"/>on of which matchleſs Loyalty
+<pb facs="tcp:100166:3"/> in your Lordſhip, has embol<g ref="char:EOLhyphen"/>dened me to lay theſe my dull Labours at your Lordſhip's feet: If you vouchſafe to patronize them, let the <hi>Whigs</hi> ſpit out their Venom, as faſt as Whales ſpout out Water, I value't not a Ruſh; I know they are the Seed of the old Serpent, and they'l nibble at my Heels, if they cannot bite me by the Throat. But having a glimps of your Lordſhip's Fa<g ref="char:EOLhyphen"/>vour, where's the <hi>Ferguſon</hi> I need to fear? What hurt can another <hi>Abſalom,</hi> or <hi>Achitophel,</hi> do me? I humbly therefore beg, that this my poor (but Loyal) Labours, may find Protection under your
+<pb facs="tcp:100166:4"/> Lordſhip's moſt loyal and indul<g ref="char:EOLhyphen"/>gent Wing; not for any worth or ingenuity that can be found in them, but purely becauſe this Fruit ſprings from a Loyal Tree.</p>
+            <p>
+               <hi>My Lord!</hi> this is not a Piece for Phanaticks to countenance; I believe they will be ſo far from fa<g ref="char:EOLhyphen"/>vouring of it, that they will burn it, and ſtab me if it lies in their power, unleſs God faſtens ſome of thoſe Texts of Scripture upon their hearts, to convince or convert them: but I dread them no more, than the Sun dreads the Dung<g ref="char:EOLhyphen"/>hil; nor love them, no more than they love the King. If any
+<pb facs="tcp:100166:4"/> thing can convert them, theſe Scriptures will; but if they wil<g ref="char:EOLhyphen"/>fully ſin againſt knowledg, and thereby bring upon themſelves certain Damnation, there is no Art nor Power that can prevent it.</p>
+            <p>However, (God be praiſed for it) if this Loyal Book will not convince theſe Rebels, His Royal Majeſty has a many No<g ref="char:EOLhyphen"/>ble, Loyal, and Valorous He<g ref="char:EOLhyphen"/>roes, (of whom your Lordſhip deſervedly ought to be reckoned one of the chief) that are able to ſuppreſs thouſands of them, and force them to their Obedience;
+<pb facs="tcp:100166:5"/> your Lordſhip having already, by your Valour, and prudent Conduct, been a main Inſtru<g ref="char:EOLhyphen"/>ment, under his Majeſty, to re<g ref="char:EOLhyphen"/>duce thoſe Traitors and Rebels, who lately, with the height of Impudence, did riſe in Rebellion againſt his Sacred Majeſty; which glorious Action of yours, is not only delightful to all his Maje<g ref="char:EOLhyphen"/>ſty's Loyal and Loving Subjects, (for which they have your No<g ref="char:EOLhyphen"/>ble and Heroick Perſon in vene<g ref="char:EOLhyphen"/>ration) but the memory thereof will be (to your Lordſhip's never dying Honour) ſweet and freſh in the mouths of all Loyal Subjects to ſucceeding Ages.</p>
+            <pb facs="tcp:100166:5"/>
+            <p> Now to conclude; My humble Requeſt to your Lordſhip is, That you will be pleaſed to ac<g ref="char:EOLhyphen"/>cept of the good Will for the good Deed: I having ventur'd to compoſe and write this Book in <hi>Defence of Monarchy,</hi> who am one of the meaneſt and weakeſt of his Majeſty's Subjects, having had the honour to ſerve his Ma<g ref="char:EOLhyphen"/>jeſty, in Military Employments, by Sea and Land, from my Youth to this preſent day; and therefore I hope Your Lordſhip will conſider me, as a Souldier, that has liv'd more by the Sword than by the Word; and that will ſufficiently excuſe the want
+<pb facs="tcp:100166:6"/> of thoſe ſmooth Lines which o<g ref="char:EOLhyphen"/>therwiſe you might juſtly have expected from me; wiſhing Your Lordſhip, and all Your Noble Family, all the happineſs that Heaven can ſhower down upon You in this Life, and Eternal Happineſs in the World to come: I preſume to ſubſcribe my ſelf,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>The humbleſt of Your Lordſhip's Servants, GEO. WOOD.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:100166:6"/>
+            <head>Courteous Reader;</head>
+            <p>
+               <seg rend="decorInit">L</seg>ET it not appear ſtrange to thee, that I who never was an Academian, nor bred at the feet of <hi>Gamaliel,</hi> but a Soul<g ref="char:EOLhyphen"/>dier from my Youth, unto this preſent day, in his Majeſty's Service, both by Land and Sea, ſhould adventure to write on ſo Sacred a Subject. If you take a ſerious view of the State of this preſent World, you will find I am not the only Man that is found out of my proper Station Some are doing that which, like <hi>Sampſon</hi>'s Foxes, with Fire-brands in their Tails, conſume our Plenty. Some Rebels are writing, preaching, and fighting, to diſturb our Peace: Others are ſtudying, plotting, and contriving the downfal of the peacefulleſt <hi>King</hi> that ever reign'd.</p>
+            <pb facs="tcp:100166:7"/>
+            <p> 
+               <hi>Now,</hi> whilſt theſe Men are ſo forward and haſty to deſtroy our Peace, who can blame me, if I ſtrive, with my ſmall Might, to pre<g ref="char:EOLhyphen"/>ſerve it? Though many will ſay I am out of my Element, and act out of my Sphere; Yet none can ſay that I do not act as I am bound in duty. This Subject indeed requires a far bet<g ref="char:EOLhyphen"/>ter Pen, much more underſtanding than I am maſter of. But when I conſider the Wi<g ref="char:EOLhyphen"/>dows Mites were accepted, it encourages me to think, that all Loyal Perſons will prize the Will as much as the Deed: May I but give any ſatisfaction to ſuch, I value not the diſ<g ref="char:EOLhyphen"/>pleaſure of others. If the ſmootheſt Orators, and the ſweeteſt Poets, ſhould write upon this Subject, they cannot want for too great a number of Phanatical Criticks, to render their Labours unprofitable and contemptible. Theſe Caterpillars will bite off my Bloſſoms; theſe Toads will ſpit out their Venom; but my comfort is, <hi>Curſt Cows have ſhort Horns.</hi> Indeed, I wou'd ſeek to convince and convert them, but I wou'd never ſtudy to pleaſe them:
+<pb facs="tcp:100166:7"/> If theſe my poor Labours meet with any welcome from thoſe who are lovers of their <hi>King</hi> and their Countries Peace, my Toil is ſufficiently requited. How can I expect leſs than abuſe from thoſe, who have murdered ſuch as I go about to preſerve? What I ſeek to ſave, they have ſought to deſtroy. What agreement can there be between God and <hi>Be<g ref="char:EOLhyphen"/>lial?</hi>
+            </p>
+            <p>Yet out of pity to ſuch who, it may be, wou'd pluck out my Throat, I have printed this Book, in hopes they may meet with ſome powerful Text that may prevail with them, to <hi>FEAR GOD, AND HONOUR THE KING;</hi> (being confident, that no one in this kind has been preſented to publick view). I leave the Courteous Reader to judg how neceſſary and convenient this Book may be for the Preſs in theſe ſad times, eſpecially when a good <hi>King</hi> becomes the Mark of ſo many bad <hi>Men,</hi> who know not what Obedience to <hi>MONARCHY</hi> means; but by their Actions and Behaviour, by their Lives and Doctrines, ſeem to deny the
+<pb facs="tcp:100166:8"/> expreſs Words of <hi>God,</hi> our <hi>Lord Jeſus Chriſt,</hi> his Prophets and Apoſtles, and to treaſure up Wrath againſt the Day of Wrath, and bring irrecoverable Damnation upon their own Souls.</p>
+            <p>I have (to make this Book a little more pleaſant and delightful to the Reader) made ſome Poetical Comments upon the ſeveral Texts of <hi>Scripture:</hi> If either may be ſerviceable for the Publick Good, it will be matter of great ſatisfaction to me. I have (the Phanaticks will think) been a little too ſevere upon the Arch-Traitor <hi>Ferguſon;</hi> and yet I know not what Pen or Tongue can revile him too much, who has been ſo eminently inſtrumental to ſhed ſo much innocent Blood, and ſo impudent<g ref="char:EOLhyphen"/>ly villanous, as to attempt a change in the Government; and which is yet more than all, to contrive the downfal of the beſt of <hi>Kings:</hi> There are but too many who bave juſt cauſe to ſtile him a Comrade for the Devil, rather than a Companion for Chriſtians, becauſe they have been led to ruin, as Sheep to the Slaughter, by
+<pb facs="tcp:100166:8"/> his rebellious, canting, and deceitful Stories; Murder and Sacriledg having been at the bot<g ref="char:EOLhyphen"/>tom of all his Deſigns, even when he has ſeem<g ref="char:EOLhyphen"/>ingly preached and practis'd the contrary. But it were happy if I had no more <hi>Ferguſons</hi> to reprove; I doubt, that little piece of ſower Leven, has leven'd a conſiderable Lump; and we have too many lurking Traitors, who are, and have been Abettors of his wicked Deſigns: I hope this Book may meet with them; but if it does not, <hi>God</hi> will find them out, and all ſuch as wilfully, diſloyally, and traiterouſly, draw away the Hearts of the Subjects from our dread <hi>Soveraign.</hi> I wou'd fain per<g ref="char:EOLhyphen"/>ſwade ſuch Reprobates, to read what the Pro<g ref="char:EOLhyphen"/>phet <hi>Samuel</hi> tells them, 1 <hi>Sam.</hi> 15. 22, 23. That <hi>to obey, is better than Sacri<g ref="char:EOLhyphen"/>fice; and to hearken, than the Fat of Rams. For Rebellion is as the Sin of Witchcraft, and Stubbornneſs is as Ini<g ref="char:EOLhyphen"/>quity and Idolatry.</hi> And what St. <hi>Paul</hi> ſpeaks, <hi>Heb.</hi> 10. 26, 27. <hi>For if we ſin wilfully after we have received the</hi>
+               <pb facs="tcp:100166:9"/> 
+               <hi>knowledg of the Truth, there remaineth no more Sacrifice for Sin, but a certain fearful looking for of Judgment, and fiery Indignation, which ſhall devour the Ad<g ref="char:EOLhyphen"/>verſaries.</hi> Poſsibly it may prevail with them <hi>to live a peaceable and a quiet life, in all godlineſs and honeſty,</hi> 1 Tim. 2. 2. Which we ſhall never be able effectually to attain, till we have all learn'd that excellent Precept given us from the Apoſtle, 1 <hi>Pet.</hi> 2. 17. to <hi>FEAR GOD, AND HONOUR THE KING.</hi>
+            </p>
+            <p>Now to conclude;</p>
+            <p>I heartily wiſh that the Seduced, and the Seducers of his Majeſty's Subjects, may read and conſider the many weighty Texts in this ſmall Book, that it may ſpeedily put them upon the Duty of Repentance; that <hi>God</hi> may ſpeak pardon to their periſhing Souls; and the <hi>King</hi> grant Mercy to their dying Bodies; that we may live together in Unity, and in the Ponds of Peace.</p>
+            <pb facs="tcp:100166:9"/>
+            <p> That <hi>God</hi> wou'd ſmite their Hearts, and work this happy change, ſhall be the earneſt Prayer of,</p>
+            <closer>
+               <signed>The <hi>KING</hi>'s moſt loyal Subject, and their Friend and Servant in the <hi>LORD JESUS,</hi> GEO. WOOD.</signed>
+            </closer>
+            <pb facs="tcp:100166:10"/>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:100166:10"/>
+            <p> STRONG Scripture Proofs In Defence of MONARCHY.</p>
+            <p>Beginning with the <hi rend="blackletterType">Old Teſtament,</hi> Written by the Author. <hi>Anno</hi> 1685.</p>
+            <pb facs="tcp:100166:11"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:100166:11"/>
+            <head>
+               <hi>Strong Scripture Proofs in Defence of</hi> MONARCHY, <hi>&amp;c.</hi>
+            </head>
+            <l>THE Iſlraelites were brought from <hi>Egypt</hi>'s Land,</l>
+            <l>Unto Mount <hi>Sinai,</hi> at the <hi>Lord</hi>'s Com<g ref="char:EOLhyphen"/>mand.</l>
+            <l>There <hi>Moſes</hi> did the Law of <hi>God</hi> diſplay;</l>
+            <l>Curſt them that from's Commands ſhould go aſtray.</l>
+            <l>Above the reſt, this was the chiefeſt thing,</l>
+            <l>To fear the <hi>Lord,</hi> and to obey the <hi>King.</hi>
+            </l>
+            <l>But at this time no <hi>King</hi> they have, we find;</l>
+            <l>Yet <hi>Kingly</hi> aw was then in <hi>Moſes</hi> mind:</l>
+            <pb n="2" facs="tcp:100166:12"/>
+            <l> He did foreſee, a <hi>King</hi> ſhould Rule and Reign,</l>
+            <l>Read his own words, for they are full and plain.</l>
+            <q>
+               <bibl>DEUTERONOMY, Chap. 17. Verſ. 14, 15.</bibl> 
+               <hi>Thou ſhalt in any wiſe ſet him King over thee, whom the Lord thy God ſhall chuſe,</hi> &amp;c.</q>
+            <p>And,</p>
+            <q>
+               <bibl>EXODUS, Chap. 22. Verſ. 28.</bibl> 
+               <hi>Thou ſhalt not revile the Gods, nor curſe the Ruler of thy People.</hi>
+            </q>
+            <l>As <hi>Moſes</hi> propheſy'd, ſo now we find</l>
+            <l>The Iſraelites, according to their mind,</l>
+            <l>Procure a <hi>King;</hi> to <hi>Samuel</hi> they pray,</l>
+            <l>That they may have a Sacred <hi>King</hi> t'obey.</l>
+            <l>The Prophet pray'd, that they may have a <hi>King.</hi>
+            </l>
+            <l>
+               <hi>God</hi> granted one; with one conſent they ſing.</l>
+            <l>Here <hi>God</hi> himſelf ordained, that <hi>King Saul</hi>
+            </l>
+            <l>Should be the <hi>King</hi> and Ruler of them all.</l>
+            <q>
+               <bibl>I SAMUEL, Chap. 10. Verſ. 1.</bibl> 
+               <hi>Then</hi> Samuel <hi>took a Vial of Oil, and poured it upon his head,</hi>
+               <pb n="3" facs="tcp:100166:12"/> 
+               <hi>and kiſſed him, and ſaid, Is it not becauſe the LORD hath anointed thee to be Captain over his Inheritance?</hi>
+            </q>
+            <q>
+               <bibl>Verſ. 24.</bibl> 
+               <hi>And</hi> Samuel <hi>ſaid to all the People, See ye him whom the LORD hath choſen, that there is none like him among all the People? and all the People ſhouted, and ſaid, GOD SAVE the KING.</hi>
+            </q>
+            <l>
+               <hi>God</hi> gave <hi>King Saul,</hi> a wiſe and <hi>godly</hi> heart,</l>
+            <l>Fitted him for to act his <hi>Kingly</hi> part.</l>
+            <l>Now gen'ral Acclamations fill the Sky,</l>
+            <l>
+               <hi>God</hi> ſave <hi>King Saul,</hi> and may he never die.</l>
+            <l>Theſe were his Subjects Pray'rs, they all ſeem'd glad,</l>
+            <l>That ſuch a pious prudent <hi>King</hi> they had.</l>
+            <lg>
+               <l>But wicked Men their <hi>King</hi> did ſoon deſpiſe,</l>
+               <l>And impiouſly did murmur in this wiſe;</l>
+               <l>Can this Man ſave us from our Enemies?</l>
+            </lg>
+            <l>Shall <hi>Saul</hi> Reign over us? Shall he be <hi>King?</hi>
+            </l>
+            <l>Shall we be ſhelter'd underneath his Wing?</l>
+            <pb n="4" facs="tcp:100166:13"/>
+            <l> But they were ſoon convinc'd of this great Evil,</l>
+            <l>And known to be but Servants of the Devil?</l>
+            <l>And had not <hi>Saul</hi> been merciful, they'd dy'd,</l>
+            <l>For in ſome meaſure they their <hi>King</hi> defy'd.</l>
+            <q>
+               <bibl>I. SAMUEL, Chap. 2. Verſ. 12.</bibl> 
+               <hi>And the Peo<g ref="char:EOLhyphen"/>ple ſaid unto</hi> Samuel, <hi>Who is he that ſaid, Shall</hi> Saul <hi>reign over us? bring the Men that we may put them to death.</hi>
+            </q>
+            <l>Here the <hi>King</hi>'s Mercy wrought a happy change;</l>
+            <l>From their Obedience they no longer range.</l>
+            <l>Whilſt the <hi>King</hi> liv'd, they always liv'd in awe,</l>
+            <l>And ſtudy'd due Allegiance to his Law.</l>
+            <l>They were not like the Rebels in the <hi>Weſt;</hi>
+            </l>
+            <l>Who when they were with gracious Pardons bleſt;</l>
+            <l>Turn'd tail to their Obedience, and became</l>
+            <l>The juſt Promoters of their laſting Shame.</l>
+            <div type="part">
+               <pb n="5" facs="tcp:100166:13"/>
+               <l> WHEN <hi>Saul</hi> was ſettl'd on his Glori<g ref="char:EOLhyphen"/>ous Throne,</l>
+               <l>And was, for Pomp, inferiour unto none;</l>
+               <l>He did neglect to ſerve the <hi>God</hi> of Heav'n,</l>
+               <l>By whom his Honour and his Power was giv'n.</l>
+               <l>Beneath his Feet the <hi>Lord</hi>'s Commands he trod,</l>
+               <l>Did not obey <hi>Jehovah</hi> as his <hi>God:</hi>
+               </l>
+               <l>Therefore another <hi>King</hi> the <hi>Lord</hi> did chuſe;</l>
+               <l>And <hi>Saul,</hi> for his tranſgreſſion, did refuſe.</l>
+               <l>When <hi>Saul</hi> perceiv'd that <hi>David</hi> ſhou'd ſucceed,</l>
+               <l>He us'd all means to obſtruct what God decreed.</l>
+               <l>He made him fly, we find, from place to place;</l>
+               <l>And <hi>David</hi> durſt not look <hi>King Saul</hi> i'th Face.</l>
+               <l>He fear'd his Wrath, yet wou'd not throw him down,</l>
+               <l>Tho he were ſure thereby to gain a Crown.</l>
+               <pb n="6" facs="tcp:100166:14"/>
+               <l> He often cou'd have kill'd him, but forbore</l>
+               <l>To dye the Earth with <hi>Royal</hi> Purple Gore.</l>
+               <l>His Servants often tempted him to ſlay him;</l>
+               <l>And yet he rather ſtudy'd to obey him.</l>
+               <l>Said he (when he had pow'r to kill the <hi>King)</hi>
+               </l>
+               <l>The <hi>Lord</hi> forbid that I ſhould do this thing.</l>
+               <q>
+                  <bibl>I. SAMUEL, Chap. 24. Verſ. 4.</bibl> 
+                  <hi>Then</hi> David <hi>aroſe, and cut off the Skirt of</hi> Saul<hi>'s Robe privily.</hi>
+               </q>
+               <q>
+                  <bibl>Verſ. 5.</bibl> 
+                  <hi>And it came to paſs afterward, that</hi> David<hi>'s heart ſmote him, becauſe he had cut off</hi> Saul<hi>'s Skirt.</hi>
+               </q>
+               <q>
+                  <bibl>Verſ. 6.</bibl> 
+                  <hi>And he ſaid unto his Men, The LORD forbid that I ſhould do this thing unto my Maſter, the LORD's Anointed, to ſtretch forth mine hand againſt him, ſeeing he is the Anointed of the LORD.</hi>
+               </q>
+               <q>
+                  <bibl>CHAP. 26. Verſ. 9, 11.</bibl> 
+                  <hi>And</hi> David <hi>ſaid to</hi> Abiſhai, <hi>Deſtroy him not; for who can ſtretch forth his hand againſt the LORD's Anoin<g ref="char:EOLhyphen"/>ted, and be guiltleſs?—But I pray thee, take now the Spear that is at his Bolſter, and the Cruſe of Water, and let us go.</hi>
+               </q>
+               <q>
+                  <pb n="7" facs="tcp:100166:14"/>
+                  <bibl>Verſ. 13.</bibl> 
+                  <hi>Then</hi> David <hi>went over to the other ſide:</hi>
+               </q>
+               <q>
+                  <bibl>Verſ. 14.</bibl> 
+                  <hi>And</hi> David <hi>cried to the People, and to</hi> Abner <hi>the Son of</hi> Ner, <hi>ſaying, Anſwereſt thou not,</hi> Abner? <hi>Then</hi> Abner <hi>anſwered and ſaid, Who art thou that crieſt to the KING?</hi>
+               </q>
+               <q>
+                  <bibl>Verſ. 15.</bibl> 
+                  <hi>And</hi> David <hi>ſaid to</hi> Abner, <hi>Art not thou a valiant Man? and who is like to thee in Iſrael? wherefore then haſt thou not kept thy Lord the King? for there came one of the People to deſtroy the KING thy LORD.</hi>
+               </q>
+               <q>
+                  <bibl>Verſ. 16.</bibl> 
+                  <hi>This thing is not good that thou haſt done: as the LORD liveth, ye are worthy to die, becauſe ye have not kept your Maſter the LORD's Anointed.</hi>
+               </q>
+               <l>Wou'd ev'ry Subject were a <hi>David</hi> now;</l>
+               <l>Wou'd ev'ry Subjects heart and knee wou'd bow</l>
+               <l>To our moſt gracious <hi>King,</hi> whom <hi>God</hi> has ſent</l>
+               <l>To give three Kingdoms Plenty and Content.</l>
+               <l>Thoſe who have trait'rous Hearts, rebellious Minds,</l>
+               <l>Who to act Miſchief are as ſwift as Hinds.</l>
+               <pb n="8" facs="tcp:100166:15"/>
+               <l> Such who diſturb our happy peaceful <hi>King,</hi>
+               </l>
+               <l>May they on any Country Gallows ſwing.</l>
+               <l>
+                  <hi>David</hi> durſt do no ill unto <hi>King Saul;</hi>
+               </l>
+               <l>Yet <hi>David</hi>'s riſe muſt not be till his Fall.</l>
+               <l>
+                  <hi>David</hi>'s Heart ſmote him when his Skirt was cut:</l>
+               <l>He ſoon drew back, he ſoon withdrew his foot</l>
+               <l>From doing further miſchief, and he cry'd,</l>
+               <l>That <hi>Saul</hi>'s great Gen'ral ſhould by right have dy'd,</l>
+               <l>Becauſe he did no better guard his <hi>King.</hi>
+               </l>
+               <l>Curs't <hi>Ferguſon</hi> wou'd ſcarce have done this thing:</l>
+               <l>This wicked Viper ſcarce ſlept Night or Day,</l>
+               <l>He was ſo greedy of a Royal Prey:</l>
+               <l>He had no time to read this Text, I fear,</l>
+               <l>Some other Texts rung oftner in his ear.</l>
+               <pb n="9" facs="tcp:100166:15"/>
+               <l> He was for binding our bleſt <hi>King</hi> in Chains,</l>
+               <l>Hoping Rebellion would requite his pains.</l>
+               <l>But <hi>God,</hi> I hope, our <hi>King</hi> will long preſerve,</l>
+               <l>And give ſuch Rebels what they do deſerve.</l>
+               <l>Rebellion, Treaſon, Murder, theſe great Crimes,</l>
+               <l>Being too oft repeated in our Times.</l>
+               <l>
+                  <hi>God</hi> will not let them go unpuniſh'd here,</l>
+               <l>Ev'n in this Life, they pay for them full dear.</l>
+               <l>They pierce the Heav'ns, and for Vengeance cry.</l>
+               <l>On ſuch vile Wretches <hi>God</hi> has ſtill an eye;</l>
+               <l>A watchful eye, to give them their deſert,</l>
+               <l>Scaffold and Ax, or elſe a Rope and Cart.</l>
+               <l>Thoſe who go yet unpuniſh'd now, I hope,</l>
+               <l>Will fear their <hi>God</hi> and <hi>King,</hi> for fear a Rope</l>
+               <pb n="10" facs="tcp:100166:16"/>
+               <l> Make them repent too late: Let <hi>God</hi> ariſe,</l>
+               <l>And thro' his Mercy give them flowing eyes;</l>
+               <l>Make them repent, before it be too late,</l>
+               <l>Leſt they fall under their deſerved Fate.</l>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:100166:16"/>
+               <l> AFTER <hi>King Saul, King David</hi>'s Life had ſought,</l>
+               <l>He and his Men with the Philiſtines fought.</l>
+               <l>But <hi>Iſrael</hi> fled, and three of's Sons were ſlain,</l>
+               <l>And he lay wounded, very full of pain.</l>
+               <l>Upon the Mountains of <hi>Gilboa,</hi> then</l>
+               <l>In great diſtreſs, he call'd to one of's Men</l>
+               <l>To fall upon him: he had only breath</l>
+               <l>To beg a Wound, and ſtrength to crave a death.</l>
+               <l>The young Man ſaw him, then to <hi>David</hi> went,</l>
+               <l>Told him the News (thinking to give content).</l>
+               <l>But <hi>David</hi> rent his Cloaths; and mourn'd for <hi>Saul,</hi>
+               </l>
+               <l>And griev'd extreamly for his haſty fall.</l>
+               <l>The Man that brought the News, was forth<g ref="char:EOLhyphen"/>with ſlain,</l>
+               <l>
+                  <hi>David</hi> eſteem'd him but a Second <hi>Cain.</hi>
+               </l>
+               <pb n="12" facs="tcp:100166:17"/>
+               <l> How, waſt thou not afraid, ſaid he, to ſlay</l>
+               <l>Him that in <hi>Iſrael</hi> bare ſo great a ſway?</l>
+               <q>
+                  <bibl>II. SAMUEL, Chap. 1. Verſ. 14, 15, 16.</bibl> 
+                  <hi>And</hi> David <hi>ſaid unto him,—Thy Blood be upon thy Head; for thy Mouth hath teſtified againſt thee, ſaying, I have ſlain the LORD's Anointed.</hi>
+               </q>
+               <l>You that diſturb our Peace, our <hi>King</hi> and State,</l>
+               <l>Want you a Patern now to imitate,</l>
+               <l>That leads to Loyalty? Then read this Text,</l>
+               <l>And, without doubt, your hearts wil be perplext.</l>
+               <l>Tho <hi>Saul</hi> was <hi>David</hi>'s Foe, kept him from's Crown;</l>
+               <l>Tho he had juſt pretence to caſt him down,</l>
+               <l>He durſt not entertain a thought to ſlay him,</l>
+               <l>But rather ſought to pleaſe, and to obey him.</l>
+               <l>Much more ought we our peaceful <hi>King</hi> to love,</l>
+               <l>Who is eſtabliſh'd by the <hi>God</hi> above.</l>
+               <lg>
+                  <pb n="13" facs="tcp:100166:17"/>
+                  <l> He that ſweet <hi>England</hi>'s golden Scepter ſways,</l>
+                  <l>Shou'd be the ſubject of our conſtant praiſe;</l>
+                  <l>We ſhou'd his Fame, high as <hi>Gilboa,</hi> raiſe.</l>
+               </lg>
+               <l>Yet like, accurſed Men, we'in ambuſh lie,</l>
+               <l>To ſpill his Blood, and bring that Sacred Dye</l>
+               <l>Upon our Souls, a ſtain that ſtill will laſt,</l>
+               <l>When all the Glory of the World is paſt:</l>
+               <l>Much Soap and Niter cannot make us clean,</l>
+               <l>If once this ſtain upon our Souls is ſeen.</l>
+               <pb facs="tcp:100166:18"/>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:100166:18"/>
+               <l> WHEN News was brought to <hi>David, Saul</hi> was dead;</l>
+               <l>
+                  <hi>David</hi> was then in <hi>Ziklag,</hi> where he fled</l>
+               <l>From <hi>Saul</hi>'s purſuit. The Men of <hi>Judah</hi> came,</l>
+               <l>And did <hi>King David</hi> in the Streets proclaim.</l>
+               <q>
+                  <bibl>II. SAMUEL, Chap. 2. Verſ. 4.</bibl> 
+                  <hi>And the Men of</hi> Judah <hi>came, and there they anointed</hi> David <hi>KING over the Houſe of</hi> Ju<g ref="char:EOLhyphen"/>dah, <hi>&amp;c.</hi>
+               </q>
+               <l>Thus <hi>David</hi> being ſetled in his Throne,</l>
+               <l>Prized by all, and envy'd now by none.</l>
+               <l>When he perceiv'd that he was fully bleſt,</l>
+               <l>With peaceful Subjects, and with quiet reſt;</l>
+               <l>He ſtudied thankfulneſs to <hi>God</hi> above;</l>
+               <l>Advis'd with <hi>Nathan</hi> to expreſs his Love.</l>
+               <q>
+                  <pb n="16" facs="tcp:100166:19"/>
+                  <bibl>II. SAMUEL, Chap. 7. Verſ. 1.</bibl> 
+                  <hi>And it came to paſs when the KING ſate in his Houſe, and the LORD had given him reſt round abo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t from all his Enemies,</hi>
+               </q>
+               <q>
+                  <bibl>Verſ<g ref="char:punc">▪</g> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </bibl> 
+                  <hi>the KING ſaid unto</hi> Nathan the Prophet<g ref="char:punc">▪</g> See now, <hi>I dwell in an Houſe of Cedar, but the Ark of GOD dwelleth within Curtains,</hi> &amp;c.</q>
+               <l>Now, good <hi>King David,</hi> makes it his chief care,</l>
+               <l>To build the <hi>Lord</hi> a glorious Houſe of Pray'r;</l>
+               <l>That he, his <hi>God,</hi> may for his Mercy's praiſe,</l>
+               <l>And magnify him for his wond'rous Ways.</l>
+               <l>
+                  <hi>God</hi> was well pleas'd, ſent <hi>Nathan</hi> to the <hi>King,</hi>
+               </l>
+               <l>Who did this joyful Meſſage to him bring.</l>
+               <q>
+                  <bibl>II. SAMUEL, Chap. 7. Verſ. 11.</bibl> 
+                  <hi>Alſo the LORD telleth thee, that he will make thee an Houſe.</hi>
+               </q>
+               <q>
+                  <bibl>Verſ. 12.</bibl> 
+                  <hi>And when thy days be fulfilled, and thou ſhalt ſleep with thy Fathers, I will ſet up thy Seed after thee, which ſhall proceed out of thy
+<pb n="17" facs="tcp:100166:19"/> Bowels, and I will eſtabliſh his Kingdom,</hi> &amp;c.</q>
+               <q>
+                  <bibl>Verſ. 13, 14, 15, 16.</bibl> 
+                  <hi>And thine Houſe, and thy Kingdom ſhall be eſtabliſhed for ever before thee; thy Throne ſhall be eſtabliſhed for ever.</hi>
+               </q>
+               <l>Here <hi>David</hi>'s thankfulneſs is well repay'd;</l>
+               <l>New bleſſings on his Royal Head is lay'd.</l>
+               <l>The Crown's ſecur'd to <hi>David</hi> and his Heirs;</l>
+               <l>This was the fruit of <hi>David</hi>'s Zeal and Pray'rs.</l>
+               <l>
+                  <hi>God</hi> was a Father to him, and his Race,</l>
+               <l>He gave them Honour, Wiſdom, Wealth, and Grace.</l>
+               <l>If <hi>God</hi> ſo highly prizes <hi>Kings,</hi> then we</l>
+               <l>Shou'd all, with great ſubmiſſion, bend the knee.</l>
+               <l>If Heav'n doth put ſuch value upon <hi>Kings,</hi>
+               </l>
+               <l>That it doth mount their Fame on Cherubs Wings.</l>
+               <pb n="18" facs="tcp:100166:20"/>
+               <l> Then how much more ought we to love and fear'm!</l>
+               <l>With what a ſacred aw ſhou'd we come near'm!</l>
+               <l>This may reprove ev'ry rebellious Creature,</l>
+               <l>Who harbours Treaſon in his curſed Nature.</l>
+               <l>And this ſhou'd lay the Weſtern Rebels low,</l>
+               <l>Who did the Coals of a Rebellion blow.</l>
+            </div>
+            <div type="part">
+               <pb n="19" facs="tcp:100166:20"/>
+               <l> PEACE crowns <hi>King David</hi> now on ev'ry ſide;</l>
+               <l>Tho his Dominions were both large and wide.</l>
+               <l>His <hi>God</hi> was pleaſed highly with his Duty,</l>
+               <l>In Holineſs he ſaw the greateſt beauty.</l>
+               <lg>
+                  <l>His Subjects underneath their Vines do ſing,</l>
+                  <l>
+                     <hi>Lord,</hi> long preſerve our Soveraign Lord the <hi>King;</hi>
+                  </l>
+                  <l>The hand of <hi>God</hi> guides him in ev'ry thing.</l>
+               </lg>
+               <l>But as the Water damm'd up in a place;</l>
+               <l>And long debarr'd from running on its Race,</l>
+               <l>At laſt with greater violence breaks out:</l>
+               <l>Ev'n ſo his Peace for War begins to ſhout.</l>
+               <l>The Viper which he long had warm'd in's Breaſt,</l>
+               <l>Crawls out, and now begins to break his Reſt.</l>
+               <pb n="20" facs="tcp:100166:21"/>
+               <l> 
+                  <hi>Abſalom</hi> ſneaks about from place to place,</l>
+               <l>And try's to bring the <hi>King</hi> into diſgrace.</l>
+               <l>He fawns and cringes now to all he meets,</l>
+               <l>Kiſſes the meaneſt Raſcals in the Streets;</l>
+               <l>And all to bring his wicked Ends about,</l>
+               <l>To gain the Crown, and turn his Father out.</l>
+               <l>But this unnatural Youth muſt have ſome help;</l>
+               <l>
+                  <hi>Achitophel,</hi> that old and wicked Whelp,</l>
+               <l>Helps him with counſel: now the Plot goes on,</l>
+               <l>Which good King <hi>David</hi> little thinks upon.</l>
+               <l>They get the Herd together, and prepare</l>
+               <l>Things ready for this moſt unnatural War.</l>
+               <l>
+                  <hi>David</hi> thinks more upon his dying Day,</l>
+               <l>Than that his Son's in a rebellious way.</l>
+               <l>They find him unprovided, hugging Peace,</l>
+               <l>He thinks it's time that he from Wars ſhould ceaſe.</l>
+               <pb n="21" facs="tcp:100166:21"/>
+               <l> His Armour now grows ruſty; but behold,</l>
+               <l>His Crown and Kingdom now is bought and ſold.</l>
+               <l>
+                  <hi>Abſalom</hi>'s mounted, dos in's Armour rattle;</l>
+               <l>But <hi>David</hi>'s unprovided for the Battle.</l>
+               <lg>
+                  <l>Now all his Friends about him loudly cry,</l>
+                  <l>Prepare your Horſes; for unleſs you fly,</l>
+                  <l>The beſt of <hi>Kings</hi> by th'worſt of Rogues muſt die.</l>
+               </lg>
+               <l>
+                  <hi>David,</hi> and's truſty Friends, forſake the City,</l>
+               <l>Finding them void of Grace, and void of pity.</l>
+               <l>He paſſes <hi>Kidron</hi>'s Brook, and flys by gueſs,</l>
+               <l>Still aiming to come at the Wilderneſs.</l>
+               <l>Thoſe that are with him, weep to ſee his State,</l>
+               <l>And only wiſh they cou'd ſubdue his Fate.</l>
+               <l>They grieve for this Rebellion, but, alaſs!</l>
+               <l>With penſive Hearts the <hi>King</hi> &amp; they muſt paſs,</l>
+               <pb n="22" facs="tcp:100166:22"/>
+               <l>'Till <hi>God</hi> finds out a way to bring relief,</l>
+               <l>And eaſe they'r heavy ſighs, &amp; matchleſs grief.</l>
+               <l>And now the time is come, <hi>God</hi> ſees, and hears</l>
+               <l>The Pray'rs of <hi>David,</hi> uſher'd in with Tears.</l>
+               <l>
+                  <hi>God</hi> ſmote the Rebells Hearts, away they fly</l>
+               <l>From thoſe who drew them to th'Conſpiracy.</l>
+               <l>And his good Subjects follow'd their good <hi>King,</hi>
+               </l>
+               <l>Reſolv'd to live and die beneath his Wing;</l>
+               <l>So that his Loyal Army did encreaſe:</l>
+               <l>Now have at thoſe who did diſturb his Peace.</l>
+               <l>The Battl's pitch'd; it's by the <hi>King</hi> appointed,</l>
+               <l>And who ſhall lead them but the <hi>Lord</hi>'s A<g ref="char:EOLhyphen"/>nointed.</l>
+               <l>He itches to be foremoſt, <hi>I will go.</hi>
+               </l>
+               <l>But his good Subjects kindly anſwer, <hi>No;</hi>
+               </l>
+               <pb n="23" facs="tcp:100166:22"/>
+               <l> It matters not for us, if thouſands die,</l>
+               <l>
+                  <hi>Thou'rt better than ten thouſand,</hi> is the cry.</l>
+               <q>
+                  <bibl>II. SAMUEL, Chap. 18. Verſ. 3.</bibl> 
+                  <hi>But the Peo<g ref="char:EOLhyphen"/>ple anſwered, Thou ſhalt not go forth: for if we flee away, they will not care for us; nei<g ref="char:EOLhyphen"/>ther if half of us die, will they care for us: but now thou art worth ten thouſand of us; therefore now it is better that thou ſuccour us out of the City.</hi>
+               </q>
+               <l>This is the Language of good Subjects ſtill,</l>
+               <l>They're always ready their own Blood to ſpill:</l>
+               <l>Provided Royal Blood may not be ſhed,</l>
+               <l>They do not care how many Men lie dead.</l>
+               <l>The <hi>King</hi>'s intreated, and he ſtays behind,</l>
+               <l>The reſt go on the Trayt'rous Rogues to find.</l>
+               <l>Mark now, what comes of the rebellious Crew,</l>
+               <l>How every Traitor has his proper due.</l>
+               <pb n="24" facs="tcp:100166:23"/>
+               <l> 
+                  <hi>Abſalom</hi> is purſu'd (when forc'd to fly);</l>
+               <l>He's taken up between the Earth and Sky;</l>
+               <l>A Tree ſecures him, holds him by the Hair,</l>
+               <l>Till <hi>Joab</hi> did to <hi>Abſalom</hi> repair;</l>
+               <l>Who carry'd in his hand a fatal Dart,</l>
+               <l>By which he ſtab'd the Traitor to the Heart.</l>
+               <l>Bad was this Death, <hi>Achitophel</hi>'s was worſe,</l>
+               <l>He hang'd himſelf, and without doubt the Curſe</l>
+               <l>Of the Almighty follow'd to his Grave;</l>
+               <l>Such Deaths as theſe may all ſuch Traitors have.</l>
+               <l>Theſe Rebels were like ours, who roſe i'th <hi>Weſt;</hi>
+               </l>
+               <l>Nay, ours were worſe, and truly bad's the beſt.</l>
+               <l>For <hi>David</hi>'s Son, we find, was lawful Heir:</l>
+               <l>But what Pretence had our late Young Man there?</l>
+               <pb n="25" facs="tcp:100166:23"/>
+               <l> He cou'd not lay a Claim to any Crown,</l>
+               <l>Unleſs that he had dropt five Shillings down.</l>
+               <l>Well, but the <hi>Wapping</hi> Lads, they made a noiſe.</l>
+               <l>And he was puft up by ſome Weſtern Boys,</l>
+               <l>To a Conceit, that he was Prince of <hi>Wales.</hi>
+               </l>
+               <l>And fool'd by <hi>Shipton</hi>'s, &amp; ſuch old Wives Tales.</l>
+               <l>
+                  <hi>Ferguſon</hi> acts <hi>Achitophel</hi>'s ill Part,</l>
+               <l>In the ſame way, with the ſame Mind &amp; Heart.</l>
+               <l>But <hi>God</hi> defeated all theſe bloody Knaves;</l>
+               <l>Sent ſome, with ſhame, unto their duſty Graves.</l>
+               <l>It's true, <hi>Achitophel</hi> eſcapes a vvhile,</l>
+               <l>And has not ſmarted for his matchleſs Guile.</l>
+               <l>But he, vvith ſorrovv, vvill go to his Grave;</l>
+               <l>Till then, a troubled Conſcience let him have.</l>
+               <l>May he be mark't, like <hi>Cain,</hi> vvhen he is found,</l>
+               <l>For <hi>Ferguſon</hi>'s a greater Vagabond.</l>
+               <pb n="26" facs="tcp:100166:24"/>
+               <l> But, <hi>God</hi> be prais'd, his Counſel's brought to nought,</l>
+               <l>And ſome their Enterprize have dearly bought.</l>
+               <l>Whilſt our good <hi>King,</hi> rides on the Wings of Fame,</l>
+               <l>He ſees his Enemies are cloth'd vvith ſhame.</l>
+               <l>May his Crovvn flouriſh on his <hi>Royal</hi> Head,</l>
+               <l>When ev'ry trait'rous Enemy is dead.</l>
+            </div>
+            <div type="part">
+               <pb n="27" facs="tcp:100166:24"/>
+               <l> WHEN all <hi>King David</hi>'s Rebells were ſuppreſt,</l>
+               <l>He waxed old, and did prepare for reſt.</l>
+               <l>Then <hi>Adonijah</hi> did uſurp the Crown,</l>
+               <l>But <hi>David</hi> found a way to caſt him down.</l>
+               <l>He caus'd young <hi>Solomon</hi> to be proclaim'd;</l>
+               <l>And when they heard that he their <hi>King</hi> was nam'd:</l>
+               <l>Then <hi>Adonijah</hi>'s Heart was fill'd with fear,</l>
+               <l>Ran to the Altar; and the King did ſwear,</l>
+               <l>If he wou'd but be Loyal, he'd forgive</l>
+               <l>His Brother's Crime, and ſuffer him to live.</l>
+               <q>
+                  <bibl>I KINGS, Chap. 1. Verſ. 28.</bibl> 
+                  <hi>Then King</hi> Da<g ref="char:EOLhyphen"/>vid <hi>anſwered, and ſaid, Call me</hi> Bath-ſheba: <hi>and ſhe came into the King's Preſence, and ſtood before the King.</hi>
+               </q>
+               <q>
+                  <pb n="28" facs="tcp:100166:25"/>
+                  <bibl>Verſ. 29.</bibl> 
+                  <hi>And the King ſware, and ſaid, As the LORD liveth, that hath redeemed my Soul out of all diſtreſs,</hi>
+               </q>
+               <q>
+                  <bibl>Verſ. 30.</bibl> 
+                  <hi>Even as I ſware unto thee by the Lord God of Iſrael, ſaying, Aſſuredly</hi> Solomon <hi>thy Son ſhall reign after me, and he ſhall ſit upon my Throne in my ſtead; even ſo will I certain<g ref="char:EOLhyphen"/>ly do this day,</hi> &amp;c. <bibl>Verſ. 31, 32, 33, 34, 35, 36, 37, 38.</bibl>
+               </q>
+               <q>
+                  <bibl>Verſ. 39.</bibl> 
+                  <hi>And</hi> Zadock <hi>the Prieſt took an Horn of Oil out of the Tabernacle, and anointed</hi> Solomon; <hi>and they blew the Trumpet, and all the People ſaid,</hi> 
+                  <hi rend="blackletterType">God ſave King Solomon,</hi> &amp;c. <bibl>
+                     <hi>Verſ.</hi> 40, 47. and ſo to the end of this Chapter.</bibl>
+               </q>
+               <l>
+                  <hi>Solomon</hi> being ſeated on his Throne,</l>
+               <l>And <hi>David</hi>'s Crown and Scepter now his own.</l>
+               <l>
+                  <hi>David</hi> inſtructed him, and he obey'd;</l>
+               <l>He was a glorious <hi>King</hi> by's Counſel made.</l>
+               <q>
+                  <bibl>II SAMUEL, Chap. 23. Verſ. 1.</bibl> 
+                  <hi>Now theſe be the laſt words of</hi> David: David <hi>the Son of</hi> Jeſſe <hi>ſaid; and the Man who was raiſed up on high, the Anointed of the God of</hi> Jacob, <hi>and the ſweet Pſalmist of</hi> Iſrael, <hi>ſaid,</hi> &amp;c. <hi>Verſ.</hi> 2, 3, 4, 5.</q>
+               <p>And,<q>
+                     <pb n="29" facs="tcp:100166:25"/>
+                     <bibl> I CHRON. Chap. 28. Verſ. 4, 5, 6, 7, 9.</bibl> 
+                     <hi>And thou,</hi> Solomon <hi>my Son, know thou the GOD of thy Father, and ſerve him with a perfect heart, and with a willing mind: for the LORD ſearcheth all hearts, and underſtand<g ref="char:EOLhyphen"/>eth all the imaginations of the thoughts: If thou ſeek him, he will be found of thee; but if thou forſake him, he will caſt thee off for ever.</hi>
+                  </q>
+               </p>
+               <l>
+                  <hi>Solomon</hi>'s ways were pleaſing unto <hi>God,</hi>
+               </l>
+               <l>For he the Paths of his good Father trod.</l>
+               <l>His Zeal was great, his Wiſdom did excel;</l>
+               <l>No <hi>King</hi> before was this <hi>King</hi>'s parallel.</l>
+               <q>
+                  <bibl>I KINGS, Chap. 3. Verſ. 5.</bibl> 
+                  <hi>In</hi> Gibeon <hi>the LORD appeared to</hi> Solomon <hi>in a dream by night: and GOD ſaid, Ask what I ſhall give thee,</hi> &amp;c. <bibl>
+                     <hi>Verſ.</hi> 5, 6, 7, 8, 9.</bibl>
+               </q>
+               <l>
+                  <hi>Solomon</hi> pray'd: it was but ask, and have;</l>
+               <l>For whatſoe're he askt, <hi>Jehovah</hi> gave.</l>
+               <l>He begg'd a wiſe and underſtanding Heart:</l>
+               <l>
+                  <hi>God</hi> his great Wiſdom to him did impart.</l>
+               <pb n="30" facs="tcp:100166:26"/>
+               <l> He gave him Wealth, and Honour too, we find;</l>
+               <l>To any <hi>King, God</hi> never was more kind:</l>
+               <l>And promis'd him, if he wou'd ſound his praiſe,</l>
+               <l>That he wou'd likewiſe give him length of days.</l>
+               <l>All Nations were at peace with him; thus bleſt,</l>
+               <l>With Wiſdom, Honour, Wealth, and Peace, and reſt.</l>
+               <q>
+                  <bibl>I KINGS, Chap. 3. Verſ. 10.</bibl> 
+                  <hi>And the ſpeech pleaſed the Lord, that</hi> Solomon <hi>had asked this thing.</hi>
+               </q>
+               <q>
+                  <bibl>Verſ. 11.</bibl> 
+                  <hi>And GOD ſaid unto him,</hi> &amp;c. <bibl>
+                     <hi>Verſ.</hi> 12, 13, 14.</bibl>
+               </q>
+               <l>
+                  <hi>Solomon</hi>'s Fame now reaches ev'ry Ear,</l>
+               <l>And he fills every Heart with Love and Fear.</l>
+               <l>The <hi>Queen</hi> of <hi>Sheba</hi> hears the great Report;</l>
+               <l>She, in an inſtant, quits her Pomp at Court;</l>
+               <l>Haſtens to ſee him: When ſhe ſaw his State,</l>
+               <l>And that he liv'd at ſuch a glorious Rate.</l>
+               <pb n="31" facs="tcp:100166:26"/>
+               <l> Her Spirits fail'd her, ſhe had nought to ſay,</l>
+               <l>But for a certain time ſhe ſpeechleſs lay.</l>
+               <l>At laſt her ſilence broke, and then ſhe ſaid,</l>
+               <l>She's happy that may be the <hi>King</hi>'s Handmaid.</l>
+               <l>Bleſſed are they who in thy preſence wait,</l>
+               <l>That may behold thy Wiſdom, and thy State.</l>
+               <q>
+                  <bibl>I KINGS, Chap. 10. Verſ. 6, 7, 8.</bibl> 
+                  <hi>Happy are thy Men, happy are theſe thy Servants which ſtand continually before thee: and that hear thy Wiſdom.</hi>
+               </q>
+               <q>
+                  <bibl>Verſ. 9.</bibl> 
+                  <hi>Bleſſed be the LORD thy GOD which delighted in thee,</hi> &amp;c.</q>
+               <l>Thus happy are the <hi>Kings</hi> whom <hi>God</hi> doth love,</l>
+               <l>He ſends them Guardian Angels from Above.</l>
+               <l>He makes their Riches ſwell, their Wars to ceaſe;</l>
+               <l>He makes their Enemies to be at Peace.</l>
+               <l>He keeps them as the Apple of his Eye,</l>
+               <l>When wicked Traitors do in ambuſh lie.</l>
+               <pb n="32" facs="tcp:100166:27"/>
+               <l> He makes them famous unto after Story,</l>
+               <l>When he has brought them to himſelf in Glory.</l>
+            </div>
+            <div type="part">
+               <pb n="33" facs="tcp:100166:27"/>
+               <l> BY <hi>God</hi>'s appointment, we have plainly found,</l>
+               <l>That <hi>Kings</hi> by him have all along been crown'd:</l>
+               <l>And finding good <hi>King David</hi> ſo Divine,</l>
+               <l>Settl'd th' Succeſſion in his Royal Line,</l>
+               <l>Whilſt <hi>Judah</hi> was a Kingdom ſo't remain'd,</l>
+               <l>And ſtill the Son after the Father Reign'd.</l>
+               <l>The <hi>Kingly</hi> Prophet <hi>David</hi> did foreſee,</l>
+               <l>That this Succeſſion wou'd hereafter be.</l>
+               <l>Therefore his Royal Voice he often raiſes,</l>
+               <l>And gives the Great <hi>Jehovah</hi> his due Praiſes.</l>
+               <l>In <hi>Pſalm</hi> the twenty firſt, read, how the <hi>King</hi>
+               </l>
+               <l>Has tun'd his Inſtruments, <hi>God</hi>'s praiſe to ſing.</l>
+               <l>The hundred and fifth <hi>Pſalm,</hi> may us convince,</l>
+               <l>How we're oblig'd to due obedience.</l>
+               <pb n="34" facs="tcp:100166:28"/>
+               <l> The <hi>Pſalms,</hi> indeed, are very full of Beauty,</l>
+               <l>In chalking forth the ways to <hi>Kingly</hi> Duty.</l>
+               <floatingText xml:lang="eng" type="list_of_proof_texts">
+                  <body>
+                     <head>PSALMS.</head>
+                     <q>
+                        <bibl>PSAL. 21. Verſ. 1.</bibl> 
+                        <hi>The King ſhall joy in thy ſtrength, O LORD: and in thy Salvation how greatly ſhall he rejoice?</hi> Ver. 2, 3, 4.</q>
+                     <q>
+                        <bibl>Verſ. 5.</bibl> 
+                        <hi>His Glory is great in thy Salvation: Honour and Majeſty haſt thou laid upon him.</hi> Ver. 6.</q>
+                     <q>
+                        <bibl>Verſ. 7.</bibl> 
+                        <hi>For the King truſteth in the LORD: and through the Mercy of the moſt High, he ſhall not be moved.</hi>
+                     </q>
+                     <q>
+                        <bibl>Pſal. 18. Verſ. 47, 50.</bibl>
+                     </q>
+                     <q>
+                        <bibl>Pſal. 61. Verſ. 6, 7.</bibl>
+                     </q>
+                     <q>
+                        <bibl>Pſal. 89. Verſ. 3, 4, 20, 21, 22, 23, 24, 25, 26, 28, 29, 34, 35, 36, 37.</bibl>
+                     </q>
+                     <q>
+                        <bibl>Pſal. 105. Verſ. 15.</bibl> 
+                        <hi>Touch not mine Anointed: and do my Prophets no harm.</hi>
+                     </q>
+                     <q>
+                        <bibl>Pſal. 132. Verſ. 17, 18.</bibl>
+                     </q>
+                  </body>
+               </floatingText>
+               <l>Why ſhou'd not ev'ry Subject imitate</l>
+               <l>
+                  <hi>King David</hi>'s Precepts, tho of former date?</l>
+               <l>His Ways were Sacred, Counſel always pure,</l>
+               <l>By his Examples, let him then allure</l>
+               <pb n="35" facs="tcp:100166:28"/>
+               <l> Us, in theſe days, to reverence our <hi>King,</hi>
+               </l>
+               <l>That Peace and Wealth may make the Subjects ſing.</l>
+               <l>Wou'd you but read, how diſobedient Slaves,</l>
+               <l>Have been, with ſhame, ſoon hurried to their Graves.</l>
+               <l>Wou'd you but mind whither their Paths do lead;</l>
+               <l>What Inconveniences this Crime doth breed.</l>
+               <l>Wou'd you the ſad Examples often read;</l>
+               <l>Certainly it wou'd make your hearts to bleed.</l>
+               <l>But ſome ſeem hardned in their Impudence,</l>
+               <l>For lack of Wiſdom, Piety, and Senſe.</l>
+               <l>Let thoſe bad Men, that don't deſerve to live,</l>
+               <l>Have Patience whilſt [<note n="*" place="bottom">This Diſcourſe which paſſed between the Earl and the Presbyterian Miniſter, I had the honour to have the Relation of it from the Earl's own mouth, ſeveral years ago, when I little intended the writing of this Book.</note> I this <hi>Example give].</hi>
+               </l>
+               <pb n="36" facs="tcp:100166:29"/>
+               <l> The Earls of <hi>Airly</hi> always lov'd their King,</l>
+               <l>And due Obedience ſhew'd in ev'ry thing.</l>
+               <lg>
+                  <l>In Priſon, out of Priſon, they were true</l>
+                  <l>And faithful to their <hi>Kings,</hi> (give them their due;)</l>
+                  <l>They ſpeak, and acted, ſuffer'd for them too.</l>
+               </lg>
+               <l>He that now is, was ſometime in the <hi>Tower,</hi>
+               </l>
+               <l>
+                  <hi>Nol's</hi> Friends oft aim'd his Honour to devour.</l>
+               <l>He had prepar'd for Death, and did not doubt,</l>
+               <l>But they would quickly come to fetch him out,</l>
+               <l>To loſe his Head. Phanatick Preachers came,</l>
+               <l>Who did the Earl of <hi>Airly</hi> highly blame,</l>
+               <l>For being Loyal. He was not afraid</l>
+               <l>Of them, nor Death, but ſoon this Anſwer made;</l>
+               <l>
+                  <hi>Read,</hi> ſaid the Earl, <hi>K.</hi> David<hi>'s Pſalms with care,</hi>
+               </l>
+               <l>
+                  <hi>And you will find your Arguments are bare,</hi>
+               </l>
+               <pb n="37" facs="tcp:100166:29"/>
+               <l> 
+                  <hi>Senſleſs, and ſinful, and they ſpring from Hell,</hi>
+               </l>
+               <l>
+                  <hi>Where now too many ſuch curſt Zealots dwell.</hi>
+               </l>
+               <l>The wicked Presbyter reply'd with ſpeed,</l>
+               <l>
+                  <hi>To what you offer, muſt not be agree'd.</hi>
+               </l>
+               <l>David <hi>did Preach Obedience to his Law,</hi>
+               </l>
+               <l>
+                  <hi>And ſtrove to keep his Subjects all in aw;</hi>
+               </l>
+               <l>
+                  <hi>With Doctrines like to theſe: The reaſon ſee,</hi>
+               </l>
+               <l>
+                  <hi>'Cauſe he upon his Throne in Peace ſhou'd be.</hi>
+               </l>
+               <l>
+                  <hi>This was his Policy, as he was</hi> King;</l>
+               <l>
+                  <hi>It's not our Duty to preach ſuch a Thing.</hi>
+               </l>
+               <l>Surely this Villain was a ſecond <hi>Cain,</hi>
+               </l>
+               <l>He never preach'd for <hi>God,</hi> but ſtill for Gain.</l>
+               <l>When <hi>David</hi> was a Subject unto <hi>Saul,</hi>
+               </l>
+               <l>How loth was he to ſee his Maſter's fall.</l>
+               <l>Tho by his Death he was to gain the Crown,</l>
+               <l>Yet he ne're haſt'nd forward his Renown;</l>
+               <pb n="38" facs="tcp:100166:30"/>
+               <l> But out of fear to <hi>God,</hi> and love to's <hi>King,</hi>
+               </l>
+               <l>Liv'd in Obedience underneath his Wing.</l>
+               <l>See theſe falſe Prophets, how they wreſt <hi>God</hi>'s Writ,</l>
+               <l>For their own profit: Want of Grace and Wit,</l>
+               <l>Emboldens them for to expound <hi>God</hi>'s Word,</l>
+               <l>To pleaſe their curſt Deſigns. And <hi>Cromwel</hi>'s Sword</l>
+               <l>Muſt ſide with them: And thus the <hi>Lord</hi>'s A<g ref="char:EOLhyphen"/>nointed,</l>
+               <l>For uſeleſs things, by this vile Brood's ap<g ref="char:EOLhyphen"/>pointed.</l>
+               <lg>
+                  <l>But hold, can this curſt Presbyter prevail,</l>
+                  <l>To ſham the Earl with this his wicked Tale?</l>
+                  <l>He left his Slime behind him like a Snail.</l>
+               </lg>
+               <l>The Earl remains unſhaken by his Wind;</l>
+               <l>It's Loyalty alone contents his Mind.</l>
+               <l>A Goal, and Loyalty, doth him content,</l>
+               <l>He doth not loſs of Liberty repent.</l>
+               <pb n="39" facs="tcp:100166:30"/>
+               <l> He values not his Life, nor his Eſtate,</l>
+               <l>His Heart ſhall ſtill upon his Soveraign wait;</l>
+               <l>As <hi>(God</hi> be praiſed) at this day it doth;</l>
+               <l>And ſtill he lives in Peace and Honour both.</l>
+               <l>He made's eſcape from th'<hi>Tower,</hi> whenas his Fate</l>
+               <l>Was gaping to devour him at the Gate.</l>
+               <l>Long may ſuch truly loyal Lords as he,</l>
+               <l>The Corner Stones of theſe three Kingdoms be.</l>
+               <l>May all diſloyal Men, who hate a <hi>King,</hi>
+               </l>
+               <l>Be judg'd by <hi>Airly,</hi> early for to ſwing.</l>
+               <pb facs="tcp:100166:31"/>
+            </div>
+            <div type="part">
+               <pb n="41" facs="tcp:100166:31"/>
+               <l> 
+                  <hi>SOLOMON,</hi> as you read, by <hi>God</hi> was bleſt;</l>
+               <l>On him the Mercies of the Lord did reſt.</l>
+               <l>In token of his Thankfulneſs, the <hi>King,</hi>
+               </l>
+               <l>To <hi>God</hi>'s great Glory, improv'd ev'ry thing.</l>
+               <l>His Wiſdom he ſo highly did improve,</l>
+               <l>That he gain'd <hi>God</hi>'s, and ev'ry Mortal's love.</l>
+               <l>Three thouſand witty Proverbs he expreſt,</l>
+               <l>A thouſand and five Songs he made at leaſt.</l>
+               <l>In all theſe things, much Loyalty is found;</l>
+               <l>He was the wiſeſt <hi>King</hi> that e're was crown'd.</l>
+               <l>Read but his Works, and you will quickly find,</l>
+               <l>That <hi>God</hi> himſelf to <hi>Kings</hi> was always kind.</l>
+               <l>They give account to none but <hi>God</hi> alone;</l>
+               <l>Man's greateſt Pow'r can never reach the Throne.</l>
+               <floatingText xml:lang="eng" type="list_of_proof_texts">
+                  <body>
+                     <pb n="42" facs="tcp:100166:32"/>
+                     <head>PROVERBS.</head>
+                     <q>
+                        <bibl>Chap. 14. Verſ. 28, 35.</bibl>
+                     </q>
+                     <q>
+                        <bibl>Chap. 16. Verſ. 10.</bibl> 
+                        <hi>A Divine Sentence is in the Lips of the King; his Mouth tranſgreſſeth not in Judgment,</hi> &amp;c. <hi>Verſ.</hi> 12, 13, 14, 15.</q>
+                     <q>
+                        <bibl>Chap. 19. Verſ. 12.</bibl>
+                     </q>
+                     <q>
+                        <bibl>Chap. 20. Verſ. 2.</bibl> 
+                        <hi>The fear of a King, is as the roaring of a Lion: whoſo provoketh him to Anger, ſinneth againſt his own Soul,</hi> &amp;c. <hi>Verſ.</hi> 8, 26, 28.</q>
+                     <q>
+                        <bibl>Chap. 21. Verſ. 1.</bibl>
+                     </q>
+                     <q>
+                        <bibl>Chap. 22. Verſ. 29.</bibl>
+                     </q>
+                     <q>
+                        <bibl>Chap. 24. Verſ. 21.</bibl> 
+                        <hi>My Son, fear thou the LORD, and the King: and meddle not with them that are given to change.</hi>
+                     </q>
+                     <q>
+                        <bibl>Chap. 25. Verſ. 2, 3, 4, 5, 6, 7.</bibl>
+                     </q>
+                     <q>
+                        <bibl>Chap. 28. Verſ. 2.</bibl>
+                     </q>
+                     <q>
+                        <bibl>Chap. 29. Verſ. 4.</bibl>
+                     </q>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="proof_text_citation">
+                  <body>
+                     <pb n="43" facs="tcp:100166:32"/>
+                     <head>SONG of SOLOMON.</head>
+                     <q>
+                        <bibl>Chap. 3. Verſ. 9, 10, 11.</bibl>
+                     </q>
+                  </body>
+               </floatingText>
+               <l>Yet to our grief, the curſt Phanaticks try'd;</l>
+               <l>The beſt of <hi>Kings</hi> by thoſe Uſurpers dy'd.</l>
+               <l>They made a Law, contrary to all Reaſon,</l>
+               <l>To paint, or colour, their moſt helliſh Treaſon.</l>
+               <l>Now, at this day, <hi>God</hi> ſeeks revenge on thoſe,</l>
+               <l>Who ſide with ſuch as were <hi>King Charles</hi> his Foes.</l>
+               <l>The Weſtern Blades, I mean, for what are they,</l>
+               <l>But ſuch as did purſue the ſelf-ſame way?</l>
+               <l>They were for killing <hi>Kings,</hi> as well as th'reſt;</l>
+               <l>Sure they were Birds of prey of the ſame Neſt.</l>
+               <l>But now their Wings are clipt, they cannot fly:</l>
+               <l>In ſome dark Cages may they always lie:</l>
+               <lg>
+                  <pb n="44" facs="tcp:100166:33"/>
+                  <l>And may the <hi>God</hi> of Heav'n bleſs the <hi>King</hi> in's Royal Line,</l>
+                  <l>That they, like th'Sun, may always on their Loyal Subjects ſhine.</l>
+               </lg>
+               <lg>
+                  <l>Where they one Mercy now enjoy, may there be added ten:</l>
+                  <l>Let ev'ry Loyal Subject ſay, AMEN, Ev'n ſo, AMEN.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="45" facs="tcp:100166:33"/>
+               <l> E'RE I have done with good <hi>King Solomon</hi>'s Reign,</l>
+               <l>Reader, I think, it may not be in vain,</l>
+               <l>To give a hint, to ſhew he was more wiſe,</l>
+               <l>Than has been yet apparent to your eyes.</l>
+               <l>Beſides, the <hi>Proverbs,</hi> and the <hi>Songs</hi> he teaches,</l>
+               <l>We find that <hi>Solomon</hi> himſelf here preaches.</l>
+               <l>
+                  <hi>Eccleſiaſtes</hi> ſhews you his great Parts,</l>
+               <l>By which the <hi>King</hi> takes captive moſt Mens Hearts.</l>
+               <l>You do not find the <hi>King</hi> doth preach alone,</l>
+               <l>Unto his Subjects, from his ſplendid Throne;</l>
+               <l>But to ſucceeding Ages, his Truths reach,</l>
+               <l>Ev'n unto us this day that <hi>King</hi> doth preach;</l>
+               <pb n="46" facs="tcp:100166:34"/>
+               <l> And nothing more than Loyalty's expreſt,</l>
+               <l>For only this will make a <hi>Kingdom</hi> bleſt.</l>
+               <floatingText xml:lang="eng" type="list_of_proof_texts">
+                  <body>
+                     <head>ECCLESIASTES.</head>
+                     <q>
+                        <bibl>Chap. 8. Verſ. 2.</bibl> 
+                        <hi>I counſel thee to keep the King's Commandment, and that in regard of the Oath of GOD.</hi>
+                     </q>
+                     <q>
+                        <bibl>Verſ. 3.</bibl> 
+                        <hi>Be not haſty to go out of his ſight: ſtand not in an evil thing, for he doth whatſo<g ref="char:EOLhyphen"/>ever pleaſeth him.</hi>
+                     </q>
+                     <q>
+                        <bibl>Verſ. 4.</bibl> 
+                        <hi>Where the Word of a King is, there is Power: and who may ſay unto him, What doſt thou?</hi>
+                     </q>
+                     <q>
+                        <bibl>Chap. 10. Verſ. 16, 17, 20.</bibl> 
+                        <hi>Curſe not the King, no not in thy thought; and,</hi> &amp;c.</q>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>
+                     <hi>Solomon</hi> had <hi>God</hi>'s Spirit, and foreſaw,</l>
+                  <l>Some <hi>Ferguſons</hi> wo'd make a breach in's Law,</l>
+                  <l>He knew that Herd wou'd not be kept in aw.</l>
+               </lg>
+               <l>For ought I know, this mov'd him thus to teach,</l>
+               <l>That made him this moſt Sacred Doctrine preach.</l>
+               <pb n="47" facs="tcp:100166:34"/>
+               <l> You that have been miſled, read o're his Works;</l>
+               <l>If you have Hearts as hard as Jews, or Turks,</l>
+               <l>Yet you will ſee ſomething will find an Art,</l>
+               <l>To touch your Conſcience, and to prick your Heart:</l>
+               <l>Something will meet with you, to make you leave</l>
+               <l>The ways of <hi>Ferguſon,</hi> amd make you grieve</l>
+               <l>That he, or Satan, has ſo long deluded</l>
+               <l>Your Underſtandings, and ſo long intruded</l>
+               <l>His hatred Doctrine on you. Do but read</l>
+               <l>This good <hi>King</hi>'s Works, and you no Preacher need.</l>
+               <l>His Texts are plain and powerful, you'l find;</l>
+               <l>Then to your ſelves, and to your Souls be kind.</l>
+               <l>Up, and be doing, e're it be too late,</l>
+               <l>Before you'r thruſt within the Traitor's Gate;</l>
+               <pb n="48" facs="tcp:100166:35"/>
+               <l> Before <hi rend="blackletterType">Iack Ketch</hi> doth catch you, and before</l>
+               <l>Your <hi>God</hi> ſhall ſay, that <hi>you ſhall be no more.</hi>
+               </l>
+               <l>The fatal Day draws near; let not that Sect,</l>
+               <l>Make you your Duty, and your Time neglect.</l>
+               <l>Read, and conſider, and you'l find much beauty,</l>
+               <l>In the performance of your Sacred Duty.</l>
+               <l>The <hi>King</hi> is <hi>God</hi>'s Vicegerent, fear t'offend:</l>
+               <l>Who dare, with <hi>God,</hi> or with his <hi>King</hi> contend?</l>
+               <l>You'd better wake a drouzy Lion far,</l>
+               <l>Than he that is made bright by <hi>God</hi>'s own Star.</l>
+               <lg>
+                  <l>If you run on in diſobedient Ways,</l>
+                  <l>You gain but Hell, whilſt others gain much Praiſe,</l>
+                  <l>And by their Loyalty their Fortunes raiſe.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="49" facs="tcp:100166:35"/>
+               <l> FORTY full Years <hi>King Solomon</hi> had Reign'd;</l>
+               <l>The praiſe of all his Subjects he had gain'd.</l>
+               <l>Then with his Fathers this good <hi>King</hi> did ſleep,</l>
+               <l>Now <hi>Rehoboam</hi> doth his Scepter keep.</l>
+               <l>So the Succeſſion laſted many Years,</l>
+               <l>As by the Texts of Holy Writ appears.</l>
+               <l>The Son ſucceeds the Father, and one Brother,</l>
+               <l>By the ſame Method, doth ſucceed another.</l>
+               <l>A Sacred aw for <hi>Kings</hi> was then required;</l>
+               <l>And now, what is there more or leſs deſired?</l>
+               <l>We have a Gracious <hi>King,</hi> by <hi>God</hi> appointed,</l>
+               <l>Let's love, and fear, and ſerve the <hi>Lord</hi>'s A<g ref="char:EOLhyphen"/>nointed.</l>
+               <pb n="50" facs="tcp:100166:36"/>
+               <l> 
+                  <hi>Solomon</hi>'s Wiſdom, <hi>Hezekiah</hi>'s Zeal,</l>
+               <l>Are both in <hi>James</hi> the <hi>Second.</hi> I appeal,</l>
+               <l>Ev'n to Phanatick Foes, if Truth they'l ſpeak,</l>
+               <l>They'l ſay, he's wiſe, he's zealous, juſt and meek.</l>
+               <l>Since we're ſo happy in our Sacred <hi>King,</hi>
+               </l>
+               <l>
+                  <hi rend="blackletterType">Vive le Roy</hi> with one conſent we'll ſing.</l>
+            </div>
+            <div type="part">
+               <pb n="51" facs="tcp:100166:36"/>
+               <l> THE Jews ſinning; to <hi>Babylon</hi> were ſent,</l>
+               <l>There Slaves to be until they did repent.</l>
+               <l>Now <hi>God</hi> takes pity of the Jews again,</l>
+               <l>In the beginning of <hi>King Cyrus</hi>'s Reign,</l>
+               <l>He gave command to <hi>Cyrus,</hi> to reſtore</l>
+               <l>The large Dominions which were theirs before.</l>
+               <l>He, tho a Heathen <hi>King,</hi> did not deny</l>
+               <l>The great Commands of him that ſits on High.</l>
+               <floatingText xml:lang="eng" type="list_of_proof_texts">
+                  <body>
+                     <head>EZRA,</head>
+                     <q>
+                        <bibl>Chap. 1. Verſ. 1, 2.</bibl> 
+                        <hi>Thus ſaith</hi> Cyrus <hi>King of</hi> Perſia, <hi>The LORD God of Heaven hath given me all the Kingdoms of the Earth,</hi> &amp;c. Verſ. 3.</q>
+                     <q>
+                        <bibl>Chap. 6. Verſ. 8, 10, 11.</bibl>
+                     </q>
+                     <q>
+                        <bibl>Chap. 7. Verſ. 26.</bibl> 
+                        <hi>And whoſoever will not do the Law of thy God, and the Law of the King,
+<pb n="52" facs="tcp:100166:37"/> let judgment be executed ſpeedily upon him, whether it be unto Death, or to Baniſhment, or to Confiſcation of Goods, or to Impriſonment.</hi>
+                     </q>
+                  </body>
+               </floatingText>
+               <l>
+                  <hi>God</hi> turns the Hearts of <hi>Kings</hi> as pleaſeth him;</l>
+               <l>And as the Brooks of Water, ſo they ſwim</l>
+               <l>Round this vaſt Orb. Who is't that can reſiſt</l>
+               <l>Him that contains the Winds within his Fiſt?</l>
+               <l>If Heathens did obey the <hi>God</hi> of Heav'n;</l>
+               <l>How ſhall then our Phanaticks be forgiv'n?</l>
+               <l>Who do pretend to greater Light than they,</l>
+               <l>Yet have not learn'd the Voice of <hi>God</hi> t'obey.</l>
+               <l>And if that <hi>Cyrus</hi> was by all obey'd,</l>
+               <l>When he his great and mighty Scepter ſway'd:</l>
+               <l>Then how much more ſhou'd our Angelick Prince,</l>
+               <l>Expect that we ſhou'd ſhew Obedience?</l>
+               <l>He that defends our Faith, ſupports our Peace,</l>
+               <l>That makes our Wars and Controverſies ceaſe.</l>
+               <pb n="53" facs="tcp:100166:37"/>
+               <l> He who preſerves the Church of <hi>England</hi> pure!</l>
+               <l>How can we fancy that he ſhou'd endure</l>
+               <l>To ſee his Subjects act ſuch horrid Treaſon,</l>
+               <l>Againſt his Sacred Perſon, without reaſon?</l>
+               <l>
+                  <hi>Solomon</hi>'s Wiſdom he hath ſhown of late,</l>
+               <l>In the ſubduing of his bloody Fate.</l>
+               <l>And <hi>David</hi>'s valour on the Seas we've ſeen,</l>
+               <l>Before he marry'd this our <hi>Royal Queen.</hi>
+               </l>
+               <l>
+                  <hi>King Hezekiah</hi>'s Zeal to him belongs,</l>
+               <l>If we on all his Vertues make our Songs.</l>
+               <l>Then <hi>Moſes</hi> meekneſs in him, let's proclaim,</l>
+               <l>And let ſome Angel's Pen his Vertues name.</l>
+               <l>He is, it's hard for me to tell you what,</l>
+               <l>Sum all Perfections up, and He is that!</l>
+               <l>If ſo, then they muſt be of helliſh Breed,</l>
+               <l>The worſt of the deſpiſed Serpent's Seed,</l>
+               <pb n="54" facs="tcp:100166:38"/>
+               <l> Who think him ill; much worſe are they who Act</l>
+               <l>That thing which may his peaceful Reign protract.</l>
+               <l>Yet he was hardly ſetled on his Throne,</l>
+               <l>When curſed Treaſon in the Land was known.</l>
+               <l>Rebels of blackeſt hue crept to the Weſt,</l>
+               <l>Each ſharping Swords and Syths to pierce his Breaſt.</l>
+               <l>Can God behold this Wickedneſs? Can he,</l>
+               <l>With his pure Eyes, this horrid Treaſon ſee,</l>
+               <l>And not reveal it? No, a Trumpet's ſounded,</l>
+               <l>And they're no ſooner met than they're con<g ref="char:EOLhyphen"/>founded.</l>
+               <lg>
+                  <l>The Great <hi>Jehovah</hi> has a watchful eye,</l>
+                  <l>For ſome ſmall time, Traitors ſecurely lie,</l>
+                  <l>And hatch their Treaſon, but at laſt they die;</l>
+               </lg>
+               <pb n="55" facs="tcp:100166:38"/>
+               <l> Before they bring it up unto perfection,</l>
+               <l>
+                  <hi>God</hi> finds them out, and gives them due cor<g ref="char:EOLhyphen"/>rection.</l>
+               <l>They often die, like Birds upon a Tree,</l>
+               <l>It's ſeldom they from <hi>God</hi>'s great Wrath can flee.</l>
+               <l>The Vulture <hi>Ferguſon</hi> eſcapes a while;</l>
+               <l>I fancy he can hardly go a mile</l>
+               <l>In any Land, but Conſcience bids him <hi>Hark,</hi>
+               </l>
+               <l>To hear the cry of Bloodhounds, how they bark,</l>
+               <l>And howl for Juſtice; ev'ry noiſe he hears,</l>
+               <l>He does imagine that ſome ravenous Bears</l>
+               <l>Dog him at's Heels, his filthy Fleſh to tear.</l>
+               <l>And, oh! Who can a wounded Conſcience bear?</l>
+               <l>He does but linger out his hateful Life,</l>
+               <l>Which Juſtice will cut off with his keen Knife.</l>
+               <pb facs="tcp:100166:39"/>
+            </div>
+         </div>
+         <div type="half_title">
+            <pb n="57" facs="tcp:100166:39"/>
+            <p> POWERFUL Scripture Proofs FOR MONARCHY.</p>
+            <p>Diligently collected out of the <hi rend="blackletterType">New Teſtament</hi> OF OUR Lord and Saviour <hi>JES<g ref="char:V">Ʋ</g>S CHRIST.</hi>
+            </p>
+            <p>Written by the Author. <hi>Anno</hi> 1685.</p>
+            <pb facs="tcp:100166:40"/>
+         </div>
+         <div type="continuation_of_text">
+            <pb n="59" facs="tcp:100166:40"/>
+            <head>
+               <hi>Powerful Scripture Proofs in De<g ref="char:EOLhyphen"/>fence of</hi> Monarchy, <hi>&amp;c.</hi>
+            </head>
+            <l>THAT wicked Men may be convinc'd by Reaſon,</l>
+            <l>And hinder'd from Rebellion, and from Treaſon.</l>
+            <l>No one, I think, can want for Argument,</l>
+            <l>Who reads the Texts in the <hi>Old Teſtament;</hi>
+            </l>
+            <l>There's Proof on Proof, and Texts ſo plain and full.</l>
+            <l>They cannot chuſe but pierce the thickeſt Skull.</l>
+            <l>Yet ſome may think, all they have read too few,</l>
+            <l>Therefore unto the <hi>Old,</hi> I add the <hi>New.</hi>
+            </l>
+            <l>Here are ſuch awful Texts ſent down from Heav'n,</l>
+            <l>That ſure they cannot think to be forgiv'n</l>
+            <l>Who diſobey them; read, and you will find,</l>
+            <l>Enough to ſatisfy a Critick's Mind.</l>
+            <q>
+               <pb n="60" facs="tcp:100166:41"/>
+               <bibl>St. <hi>MATTHEW,</hi> Chap. 17. Verſ. 24.</bibl> 
+               <hi>And when they were come to</hi> Capernaum, <hi>they that received Tribute-mony, came to</hi> Peter, <hi>and ſaid, Doth not your Maſter pay Tribute?</hi>
+            </q>
+            <q>
+               <bibl>Verſ. 25.</bibl> 
+               <hi>He ſaith, Yes.</hi> &amp;c. <bibl>
+                  <hi>Verſ.</hi> 26.</bibl>
+            </q>
+            <q>
+               <bibl>Verſ. 27.</bibl> 
+               <hi>Notwithſtanding, leſt we ſhould offend them, go thou to the Sea, and caſt an Hook, and take up the firſt Fiſh that cometh up: and when thou haſt opened his Mouth, thou ſhalt find a piece of Mony; that take, and give unto them for me and thee.</hi>
+            </q>
+            <l>A Miracle our Bleſſed <hi>Saviour</hi> wrought.</l>
+            <l>Was this his great Obedience ſhown for nought?</l>
+            <l>Did he unto Authority ſubmit?</l>
+            <l>Then 'twas to teach us awfulneſs and wit.</l>
+            <l>He ſhew'd Obedience ev'n to heath'niſh <hi>Kings,</hi>
+            </l>
+            <l>And theſe Examples he upon us brings,</l>
+            <l>For our Inſtruction: Chriſtian <hi>Kings</hi> much more,</l>
+            <l>It is our Duty daily to adore.</l>
+            <l>Next to the Deity, an awful fear,</l>
+            <l>Shou'd pierce each Subject's Heart, &amp; ev'ry Ear.</l>
+            <div type="part">
+               <pb n="61" facs="tcp:100166:41"/>
+               <l> READ further yet in <hi>Luke,</hi> and you will find,</l>
+               <l>That which unfolds the Eyes ev'n of the Blind.</l>
+               <l>The blindeſt Whig, if he but reads this Text,</l>
+               <l>Muſt have his Conſcience very much perplext.</l>
+               <l>If ever he has diſobedient been,</l>
+               <l>What ſtronger Argument was ever ſeen,</l>
+               <l>Than this which now I do declare to you,</l>
+               <l>Give unto <hi>Caeſar,</hi> what is <hi>Caeſar</hi>'s due?</l>
+               <q>
+                  <bibl>St. <hi>L<g ref="char:V">Ʋ</g>KE.</hi> Chap. 20. Verſ. 20.</bibl> 
+                  <hi>And they watched him,</hi> &amp;c. <bibl>Verſ. 21, 22, 23, 24, 25.</bibl> 
+                  <hi>And Jeſus ſaid un<g ref="char:EOLhyphen"/>to them, Render therefore unto Ceſar the things which be Ceſar's, and unto God the things which be God's.</hi>
+               </q>
+               <pb n="62" facs="tcp:100166:42"/>
+               <l> The tempting Phariſees have nought to ſay,</l>
+               <l>Their Mouths are ſtopt as if it were with Clay.</l>
+               <l>They were convinc'd, by this his Sacred Word,</l>
+               <l>Which pierc'd far deeper than a two-edg'd Sword.</l>
+               <l>And ſhall not our Phanaticks ſee the evil</l>
+               <l>Of Diſobedience, which comes from the Devil?</l>
+               <lg>
+                  <l>What Doctrine did they preach i'th Rebels Camp?</l>
+                  <l>Their Coin, I fear, had <hi>Belzebub</hi> for ſtamp,</l>
+                  <l>There was not one had Oil within his Lamp.</l>
+               </lg>
+               <l>If Chriſt had call'd them to his Judgment-Seat,</l>
+               <l>Rebellion's ſuch a Sin, there's none more great.</l>
+               <l>I wiſh it were repented of, by thoſe</l>
+               <l>Who hitherto have been <hi>King James</hi> his Foes.</l>
+               <l>Without repentance, when they hence muſt fly,</l>
+               <l>They in the hotteſt place of Hell ſhall lie.</l>
+               <pb n="63" facs="tcp:100166:42"/>
+               <l> The Rebels did intend to cut off <hi>Kings;</hi>
+               </l>
+               <l>On their own Necks the Whigs this miſchief brings.</l>
+               <l>It prov'd a happy thing unto this Nation;</l>
+               <l>Their wickedneſs did give all Men occaſion</l>
+               <l>To ſhew their Loyalty. The <hi>King</hi> has found,</l>
+               <l>Moſt of his Subjects hearts, loyal and found.</l>
+               <l>Moſt of the Clergy-men, who preach'd the Word,</l>
+               <l>And all the Souldiers too, who wore a Sword,</l>
+               <l>They were all ready, both to Preach and Fight,</l>
+               <l>For to maintain our <hi>Royal Sov'raign</hi>'s Right.</l>
+               <l>Princes and Lords made ready for the Battle,</l>
+               <l>When they perceiv'd the Whigiſh Canon rattle.</l>
+               <l>And his Great Council, our good Parliament,</l>
+               <l>Haſtily ſtrove to give the <hi>King</hi> content.</l>
+               <pb n="64" facs="tcp:100166:43"/>
+               <l> This tri'd his Friends, and this found out his Foes,</l>
+               <l>Who will, in time, receive deſerved blows.</l>
+               <lg>
+                  <l>This Skirmiſh made the Crown more faſt to's Head,</l>
+                  <l>For moſt of's Foes are now in Goals, or dead,</l>
+                  <l>Except a few poor Wretches that are fled.</l>
+               </lg>
+               <l>And now he ſits in peace, and ſhines much more</l>
+               <l>With Glory, than he ever did before.</l>
+               <l>
+                  <hi>God</hi> ſtrikes a greater aw in's Subjects Hearts,</l>
+               <l>To the confounding all the Rebels Arts.</l>
+               <l>No <hi>King</hi> e're did ſo gloriouſly appear;</l>
+               <l>Now ev'ry Heart he fills with Love or Fear.</l>
+            </div>
+            <div type="part">
+               <pb n="65" facs="tcp:100166:43"/>
+               <l> BUT now ſome more Examples let us call:</l>
+               <l>Let us but liſten to the Apoſtle <hi>Paul.</hi>
+               </l>
+               <lg>
+                  <l>And when we find him brought before the Jews,</l>
+                  <l>To anſwer <hi>Feſtus,</hi> when they him accuſe,</l>
+                  <l>St. <hi>Paul,</hi> we ſee, doth readily refuſe.</l>
+               </lg>
+               <l>
+                  <hi>Paul</hi> knew that they were under <hi>Ceſar</hi>'s power,</l>
+               <l>And did believe that him they wou'd devour.</l>
+               <l>Therefore, to <hi>Ceſar,</hi> he makes his complaint;</l>
+               <l>This was the policy of that good Saint.</l>
+               <l>The Jews, like Whigs, wou'd ſoon a Law have found,</l>
+               <l>That good St. <hi>Paul</hi> ſhou'd have been hang'd or drown'd.</l>
+               <lg>
+                  <l>
+                     <hi>Paul</hi> reaſons thus; Shall I by theſe be try'd?</l>
+                  <l>No, I'le to <hi>Ceſar,</hi> he for <hi>Ceſar</hi> cry'd,</l>
+                  <l>If he had not, doubtleſs the Saint had dy'd:</l>
+               </lg>
+               <q>
+                  <pb n="66" facs="tcp:100166:44"/>
+                  <bibl>
+                     <hi>ACTS,</hi> Chap. 25. Verſ. 10.</bibl> 
+                  <hi>Then ſaid</hi> Paul, <hi>I ſtand at Ceſar's Judgment-Seat, where I ought to be judged: to the Jews have I done no wrong,</hi> &amp;c. <bibl>
+                     <hi>Verſ.</hi> 11.</bibl> 
+                  <hi>No Man may deliver me unto them. I appeal unto Ceſar,</hi> &amp;c. <bibl>
+                     <hi>V.</hi> 12.</bibl>
+               </q>
+               <l>If <hi>Ceſar</hi> had ſuch Power in thoſe days;</l>
+               <l>If they his Crown to ſuch a height did raiſe.</l>
+               <l>Then how much more ſho'd our <hi>King</hi> be obey'd,</l>
+               <l>Upon whoſe Head 3 <hi>Kingdoms</hi> weight is laid?</l>
+               <l>We no oppreſſion find from our good <hi>King;</hi>
+               </l>
+               <l>No, Heav'ns be prais'd, he ſuffers no ſuch thing.</l>
+               <l>He gives us wholſome Laws, he grants us reſt,</l>
+               <l>By his protection we continue bleſt.</l>
+               <l>He breaks his ſleep to give his Subjects Peace;</l>
+               <l>All our Calamities and Sorrows ceaſe.</l>
+               <l>
+                  <hi>Lord,</hi> long command that our bleſt <hi>King</hi> may Reign,</l>
+               <l>Then no good Subject ever will complain.</l>
+            </div>
+            <div type="part">
+               <pb n="67" facs="tcp:100166:44"/>
+               <l> THE Biſhop of th' <hi>Epheſians</hi> next let's view,</l>
+               <l>He was for giving crowned Heads their due.</l>
+               <l>Pious Inſtructions he leaves for our uſe,</l>
+               <l>Which no good Chriſtian ſurely dare refuſe.</l>
+               <q>
+                  <bibl>I <hi>TIMOTHY,</hi> Chap. 2. Verſ. 1.</bibl> 
+                  <hi>I ex<g ref="char:EOLhyphen"/>hort therefore, that firſt of all, Supplications, Prayers, Interceſſions, and giving of Thanks, be made for all Men:</hi>
+               </q>
+               <q>
+                  <bibl>Verſ. 2.</bibl> 
+                  <hi>For Kings, and for all that are in Au<g ref="char:EOLhyphen"/>thority, that we may lead a quiet and peaceable life, in all godlineſs and honeſty.</hi>
+               </q>
+               <q>
+                  <bibl>Verſ. 3.</bibl> 
+                  <hi>For this is good and acceptable in the ſight of God our Saviour.</hi>
+               </q>
+               <l>Here he not only bids us pray for <hi>Kings,</hi>
+               </l>
+               <l>But a much ſweeter Leſſon to us ſings.</l>
+               <l>He bids us pray for all that are in Power,</l>
+               <l>Whether they're good, or bad, or rich, or poor.</l>
+               <pb n="68" facs="tcp:100166:45"/>
+               <l> Chalking out this way to a quiet Life,</l>
+               <l>Which is ſufficient to prevent all Strife.</l>
+               <l>This is the way to pleaſe the <hi>God</hi> of Heav'n,</l>
+               <l>By whom our wicked ſins muſt be forgiv'n.</l>
+               <l>Now he that has a grain of ſenſe in's Pate,</l>
+               <l>How dare he offer to diſturb the State?</l>
+               <l>But <hi>God</hi> and <hi>Chriſt,</hi> Prophets and Biſhops too,</l>
+               <l>Command al Men that they ſho'd humbly bow,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd be obedient unto <hi>Kings:</hi> Yet we,</l>
+               <l>A curſed Tribe of Hell-hounds daily ſee,</l>
+               <l>Who uſe their Art &amp; Pow'r ſtill to deſtroy'em,</l>
+               <l>So far are they from wiſhing to enjoy'em.</l>
+               <l>Their <hi>Rye-houſe</hi> Plots, their <hi>Wapping</hi> Treats, we find,</l>
+               <l>Do fully, and moſt fairly, paint their Mind.</l>
+               <l>Their King of <hi>Lime,</hi> and their Cabals elſewhere,</l>
+               <l>Do ſhew how far they from Obedience were.</l>
+               <pb n="69" facs="tcp:100166:45"/>
+               <l> But <hi>God,</hi> in time, will pluck thoſe bitter Weeds,</l>
+               <l>And cauſe <hi rend="blackletterType">Iack Ketch</hi> to cut off all their Heads.</l>
+               <l>No Peace in <hi>Iſrael</hi> there is like to be,</l>
+               <l>Whilſt we ſuch wicked Vermin in it ſee.</l>
+               <l>Each goes to Bed with Treaſon in his Heart,</l>
+               <l>And when he riſes, then he doth impart</l>
+               <l>His wiched thoughts unto his boſom Friend,</l>
+               <l>Who, Monſter-like, quickly his Aid doth lend.</l>
+               <l>And thus it's hatch'd, and brought to Bed, but, <hi>Lord,</hi>
+               </l>
+               <l>Reward the Authors with a Hempen Cord.</l>
+            </div>
+            <div type="part">
+               <pb n="70" facs="tcp:100166:46"/>
+               <l> HE that hath Ears to hear, or Eyes to ſee,</l>
+               <l>I pray that he wou'd read theſe Texts with me.</l>
+               <q>
+                  <bibl>I. St. <hi>PETER,</hi> Chap. 2. Verſ. 13.</bibl> 
+                  <hi>Submit your ſelves to every Ordinance of Man for the Lord's ſake, whether it be to the King, as Su<g ref="char:EOLhyphen"/>pream,</hi> &amp;c. <bibl>Verſ. 14, 15.</bibl>
+               </q>
+               <q>
+                  <bibl>Verſ. 17.</bibl> 
+                  <hi>Honour all Men, love the Brotherhood, FEAR GOD, HONO<g ref="char:V">Ʋ</g>R THE KING.</hi>
+               </q>
+               <p>And,
+<q>
+                     <bibl>
+                        <hi>ROMANS,</hi> Chap. 13. Verſ. 1.</bibl> 
+                     <hi>Let every Soul be ſubject unto the higher Powers. For there is no Power but of God: the Powers that be, are ordained of God.</hi>
+                  </q>
+                  <q>
+                     <bibl>Verſ. 2.</bibl> 
+                     <hi>Whoſoever therefore reſisteth the Power, reſisteth the Ordinance of God: and they that reſist, ſhall receive to themſelves damnation,</hi> &amp;c. <bibl>Verſ. 3, 4, 5, 6, 7.</bibl>
+                  </q>
+               </p>
+               <l>Now, <hi>Reader,</hi> tell me, if thou art not ſear'd,</l>
+               <l>Whether this Light before to thee appear'd?</l>
+               <pb n="71" facs="tcp:100166:46"/>
+               <l> Or ſince this Light is come, it's want of Wit,</l>
+               <l>And Grace, if longer thou in Darkneſs ſit.</l>
+               <l>If <hi>God</hi> ſhou'd ſend his <hi>Angels</hi> now to preach,</l>
+               <l>I'm ſure no other Doctrine they wou'd teach.</l>
+               <l>This is the Language of the <hi>God</hi> of Love,</l>
+               <l>He preaches thus from's glorious Throne above.</l>
+               <l>This is the Will of <hi>God,</hi> dare you reſiſt?</l>
+               <l>Can you ſtand up againſt his angry Fiſt?</l>
+               <l>Who dare provoke to Wrath the <hi>God</hi> of <hi>Sion?</hi>
+               </l>
+               <l>Or who dare go to wake the drowſy Lion?</l>
+               <l>Phanaticks now indeed grow wondrous bold,</l>
+               <l>Since they their Faith and Loyalty have ſold.</l>
+               <l>But there's a day draws near of Recompence,</l>
+               <l>For ſuch as had no Grace, nor Fear, nor Senſe,</l>
+               <lg>
+                  <pb n="72" facs="tcp:100166:47"/>
+                  <l> Nor no Obedience; Oh, a dreadful day,</l>
+                  <l>For ſuch as run in this rebellious way,</l>
+                  <l>When they are ſummon'd, What is't they can ſay?</l>
+               </lg>
+               <l>Is it enough to ſay, This Canting Fool</l>
+               <l>Has bred me in his Irreligious School?</l>
+               <l>This <hi>Ferguſon,</hi> that <hi>Jenkins,</hi> or his Brother,</l>
+               <l>Drew me to hate a <hi>King,</hi> and drew my Mother,</l>
+               <l>My Father too, into this fatal ſnare,</l>
+               <l>Where now we're come beyond the reach of Pray'r?</l>
+               <l>We ſuckt his pois'nous Doctrines in our mouth,</l>
+               <l>And took his Treaſon for the Word of Truth.</l>
+               <l>Thus will theſe Hellhounds ſay when 'tis too late,</l>
+               <l>When Troops of Devils at their Elbows wait.</l>
+               <l>You that are yet alive, Oh! turn to <hi>God,</hi>
+               </l>
+               <l>That you may never feel the weight of's Rod.</l>
+               <pb n="73" facs="tcp:100166:47"/>
+               <l> Turn to the King likewiſe with humble aw,</l>
+               <l>Obey his Sacred Perſon, and his Law.</l>
+               <l>Fear to offend him, he's the <hi>Lord</hi>'s Anointed;</l>
+               <l>To rule us, and protect us, he's appointed.</l>
+               <l>He's <hi>God</hi>'s <hi>Vicegerent,</hi> hearken to his Word;</l>
+               <l>For, wo be to you, if he whets his Sword.</l>
+               <l>The Frowns of <hi>Kings</hi> are not to be endur'd,</l>
+               <l>Theſe by Rebellion chiefly are procur'd.</l>
+               <l>May the bleſt Pow'rs Above keep us in peace;</l>
+               <l>Then Sorrows, and our Sufferings both will ceaſe.</l>
+               <l>And, O, thou glorious <hi>God</hi> of Heav'n Above,</l>
+               <l>Send down thy choiceſt Bleſſings, with thy Love,</l>
+               <l>To our dread <hi>Sov'raign;</hi> give him ſuch a Heart,</l>
+               <l>As he may from thy Footſteps ne're depart.</l>
+               <pb n="74" facs="tcp:100166:48"/>
+               <l> Lengthen his Comforts, and prolong his days.</l>
+               <l>Then give us Hearts to ſpread abroad thy praiſe.</l>
+               <l>Guide thou his Council; Let his Souldiers fight</l>
+               <l>For <hi>Royal James,</hi> under the <hi>God</hi> of Might.</l>
+               <l>Be with his Clergy, bleſs their Ways &amp; Words,</l>
+               <l>And let their Doctrine pierce like two-edg'd Swords.</l>
+               <l>And, <hi>Lord,</hi> we pray thee give us all content,</l>
+               <l>In our bleſt <hi>King,</hi> and happy <hi>Parliament.</hi>
+               </l>
+               <l>Let ev'ry one, within his proper Station,</l>
+               <l>Act for the Peace and Profit of the Nation:</l>
+               <l>That we may all have cauſe, thy praiſe to ſing;</l>
+               <l>And with one Voice cry out, <hi rend="blackletterType">God ſave</hi> the <hi rend="blackletterType">King.</hi>
+               </l>
+               <closer>AMEN.</closer>
+               <pb facs="tcp:100166:48"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
